@@ -1,0 +1,41 @@
+html {
+    background-color: rgba(39, 155, 163, 0.586);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+ 
+h1 {
+    text-align: center;
+    color: darkgreen;
+}  
+
+
+button {
+  margin: 5px;
+  padding: 10px;
+  background-color: #37823a;
+  color: white;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+ol li {
+  margin: 5px;
+  padding: 10px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+}
+
+todo-item-new-test {
+  font-weight: bold;
+}
+
